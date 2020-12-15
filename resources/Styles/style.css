@@ -15,7 +15,6 @@ body {
     margin: 0;
 }
 
-
 /*Header Styles*/
 
 .fix-box {
@@ -524,7 +523,7 @@ input[type="button"] {
 
 /*Footer*/
 
-p {
+footer p {
     font-size: .7em;
 }
 
